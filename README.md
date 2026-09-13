@@ -73,93 +73,98 @@ I enjoy turning ideas and designs into clean, functional, and user-friendly webs
 * Pixel-focused design implementation
 
 ---
+💼 Featured Work
+🛒 Organic Store
 
-## ⭐ Featured Projects
+Modern eCommerce website for organic & natural products.
 
-### 🛒 Organic Store
+WordPress WooCommerce Elementor JavaScript
 
-A modern eCommerce website for organic and natural products.
+Built a complete online shopping experience with product variations, cart functionality, checkout customization, shipping configuration, and a responsive UI.
 
-**Built with:** WordPress · WooCommerce · Elementor · CSS · JavaScript
+🔗 View Project →
 
-🔗 **Live Website:** [organicstore.uddokta.studio](https://organicstore.uddokta.studio/)
+🍯 Boralmoukhamar
 
----
+Organic food & natural products eCommerce website.
 
-### 🍯 Tayyeb Taste / Boralmoukhamar
+WordPress WooCommerce Elementor
 
-An organic food eCommerce project focused on natural products and a clean shopping experience.
+Focused on creating a trustworthy organic-product shopping experience with clean product presentation and an easy purchasing flow.
 
-**Built with:** WordPress · WooCommerce · Elementor
+🔗 View Project →
 
----
+🚀 Promotors
 
-### 🚀 Promotors
+Modern business website with an interactive front-end experience.
 
-A modern front-end website project focused on interactive UI, responsive layouts, and modern web design.
+HTML CSS JavaScript
 
-**Built with:** HTML · CSS · JavaScript
+A front-end project focused on responsive layouts, modern UI interactions, visual hierarchy, and polished user experience.
 
----
+🔗 View Project →
 
-### 👨‍💻 Personal Portfolio
+👨‍💻 Personal Portfolio
 
-My personal developer portfolio showcasing my WordPress and web development projects.
+My personal portfolio showcasing my web development work.
 
-**Built with:** WordPress · Elementor · Custom CSS · JavaScript
+WordPress Elementor CSS JavaScript
 
-🔗 **Portfolio:** [nazmul.aquorix.digital](https://nazmul.aquorix.digital/)
+Designed to present my development skills, projects, services, and professional experience.
 
----
+🔗 Visit Portfolio →
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazmul7575&show_icons=true&theme=github_dark&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul7575&layout=compact&theme=github_dark&hide_border=true" height="170">
-</p>
-
----
-
-## 🔥 Contribution Streak
+📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nazmul7575&theme=github-dark-blue&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=nazmul7575&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul7575&layout=compact&hide_border=true&theme=transparent" width="42%" />
+
 </p>
 
----
+🔥 Contribution Streak
 
-## 🤝 Let's Work Together
+<p align="center">
 
-I'm interested in working on:
+<img src="https://streak-stats.demolab.com?user=nazmul7575&hide_border=true&theme=transparent" />
 
-* WordPress websites
-* WooCommerce stores
-* Elementor projects
-* Landing pages
-* Website redesigns
-* Front-end development
-* Website customization and bug fixing
+</p>
 
-If you have a project or idea you'd like to discuss, feel free to reach out.
+🎯 Currently Focused On
+WordPress Development       ████████████████████  100%
+WooCommerce                 ███████████████████░   90%
+Front-End Development       ██████████████████░░   85%
+JavaScript                  ████████████████░░░░   80%
+PHP                         ███████████████░░░░░   75%
+Astro / Tailwind            ██████████████░░░░░░   70%
 
----
+Continuously learning, experimenting, and building better web experiences.
 
-## 📫 Connect With Me
+🤝 Let's Work Together
 
-🌐 **Portfolio:**
-https://nazmul.aquorix.digital/
+I'm available for:
 
-📧 **Email:**
-[nazmulislamsami104@gmail.com](mailto:nazmulislamsami104@gmail.com)
+WordPress Websites · WooCommerce Stores · Elementor Development
+Landing Pages · Website Redesigns · Front-End Development
+Customizations · Bug Fixes · Performance Improvements
 
-💻 **GitHub:**
-https://github.com/nazmul7575
+If you have an idea, let's turn it into something real.
 
----
+📩 Get In Touch
 
-### 💡 "Turning ideas into clean, functional and meaningful websites."
+Portfolio: nazmul.aquorix.digital
+GitHub: github.com/nazmul7575
+Email: nazmulislamsami104@gmail.com
 
+<p align="center">
+
+💻 Build. Learn. Improve. Repeat.
+
+Thanks for visiting my profile! ⭐
+
+</p>
 <p align="center">
   <b>Thanks for visiting my profile! ⭐</b>
 </p>
