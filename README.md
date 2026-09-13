@@ -73,98 +73,93 @@ I enjoy turning ideas and designs into clean, functional, and user-friendly webs
 * Pixel-focused design implementation
 
 ---
-💼 Featured Work
-🛒 Organic Store
 
-Modern eCommerce website for organic & natural products.
+## ⭐ Featured Projects
 
-WordPress WooCommerce Elementor JavaScript
+### 🛒 Organic Store
 
-Built a complete online shopping experience with product variations, cart functionality, checkout customization, shipping configuration, and a responsive UI.
+A modern eCommerce website for organic and natural products.
 
-🔗 View Project →
+**Built with:** WordPress · WooCommerce · Elementor · CSS · JavaScript
 
-🍯 Boralmoukhamar
+🔗 **Live Website:** [organicstore.uddokta.studio](https://organicstore.uddokta.studio/)
 
-Organic food & natural products eCommerce website.
+---
 
-WordPress WooCommerce Elementor
+### 🍯 Tayyeb Taste / Boralmoukhamar
 
-Focused on creating a trustworthy organic-product shopping experience with clean product presentation and an easy purchasing flow.
+An organic food eCommerce project focused on natural products and a clean shopping experience.
 
-🔗 View Project →
+**Built with:** WordPress · WooCommerce · Elementor
 
-🚀 Promotors
+---
 
-Modern business website with an interactive front-end experience.
+### 🚀 Promotors
 
-HTML CSS JavaScript
+A modern front-end website project focused on interactive UI, responsive layouts, and modern web design.
 
-A front-end project focused on responsive layouts, modern UI interactions, visual hierarchy, and polished user experience.
+**Built with:** HTML · CSS · JavaScript
 
-🔗 View Project →
+---
 
-👨‍💻 Personal Portfolio
+### 👨‍💻 Personal Portfolio
 
-My personal portfolio showcasing my web development work.
+My personal developer portfolio showcasing my WordPress and web development projects.
 
-WordPress Elementor CSS JavaScript
+**Built with:** WordPress · Elementor · Custom CSS · JavaScript
 
-Designed to present my development skills, projects, services, and professional experience.
+🔗 **Portfolio:** [nazmul.aquorix.digital](https://nazmul.aquorix.digital/)
 
-🔗 Visit Portfolio →
+---
 
-📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nazmul7575&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul7575&layout=compact&hide_border=true&theme=transparent" width="42%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=nazmul7575&show_icons=true&theme=github_dark&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul7575&layout=compact&theme=github_dark&hide_border=true" height="170">
 </p>
 
-🔥 Contribution Streak
+---
+
+## 🔥 Contribution Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=nazmul7575&hide_border=true&theme=transparent" />
-
+  <img src="https://streak-stats.demolab.com?user=nazmul7575&theme=github-dark-blue&hide_border=true" />
 </p>
 
-🎯 Currently Focused On
-WordPress Development       ████████████████████  100%
-WooCommerce                 ███████████████████░   90%
-Front-End Development       ██████████████████░░   85%
-JavaScript                  ████████████████░░░░   80%
-PHP                         ███████████████░░░░░   75%
-Astro / Tailwind            ██████████████░░░░░░   70%
+---
 
-Continuously learning, experimenting, and building better web experiences.
+## 🤝 Let's Work Together
 
-🤝 Let's Work Together
+I'm interested in working on:
 
-I'm available for:
+* WordPress websites
+* WooCommerce stores
+* Elementor projects
+* Landing pages
+* Website redesigns
+* Front-end development
+* Website customization and bug fixing
 
-WordPress Websites · WooCommerce Stores · Elementor Development
-Landing Pages · Website Redesigns · Front-End Development
-Customizations · Bug Fixes · Performance Improvements
+If you have a project or idea you'd like to discuss, feel free to reach out.
 
-If you have an idea, let's turn it into something real.
+---
 
-📩 Get In Touch
+## 📫 Connect With Me
 
-Portfolio: nazmul.aquorix.digital
-GitHub: github.com/nazmul7575
-Email: nazmulislamsami104@gmail.com
+🌐 **Portfolio:**
+https://nazmul.aquorix.digital/
 
-<p align="center">
+📧 **Email:**
+[nazmulislamsami104@gmail.com](mailto:nazmulislamsami104@gmail.com)
 
-💻 Build. Learn. Improve. Repeat.
+💻 **GitHub:**
+https://github.com/nazmul7575
 
-Thanks for visiting my profile! ⭐
+---
 
-</p>
+### 💡 "Turning ideas into clean, functional and meaningful websites."
+
 <p align="center">
   <b>Thanks for visiting my profile! ⭐</b>
 </p>
