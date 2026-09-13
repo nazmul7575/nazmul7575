@@ -116,6 +116,7 @@ My personal developer portfolio showcasing my WordPress and web development proj
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nazmul7575&show_icons=true&theme=github_dark&hide_border=true" height="170">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul7575&layout=compact&theme=github_dark&hide_border=true" height="170">
 </p>
 
